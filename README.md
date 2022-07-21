@@ -10,7 +10,7 @@ When I finished the project I found some bugs.
 
 The first bug was that when you press the start button many times it increases the speed.
 
-The second bug was that when you pause the timer, the animation stops, but when you played it again, it restarts the animation to the beginning.
+The second bug was that when you pause the timer, the animation stops, but when you played it again, it restarts the animation from the beginning.
 
 ### 📋 My features:
 

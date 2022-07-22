@@ -2,6 +2,8 @@
 
 ### A project from a course I did, using native JavaScript. The goal of this project was learn about classes and how to make animations with SVG.
 
+[Live Demo](https://tmsbenitez.github.io/timer-app/)
+
 ### 🕰 The final Timer App from the course:
 
 ![timer before changes](github/timer-before.png)
